@@ -1,8 +1,8 @@
 # 🧙 Creed Petitt
 
-**`Software Engineer`**
+**`Software Engineer (Backend, AI, Cloud)`**
 
-Hey there, thanks for stopping by. I'm a Computer Engineering student at the University of Oklahoma with a curiosity for how things work. For me, software is a creative medium-a way to take an idea that solves a real-world problem and build it into something tangible and useful. I'm passionate about the entire process, from the first sketch to the final product, and I love the challenge of creating things that make a difference.
+Hey there, thanks for stopping by. I'm a student at the University of Oklahoma with a curiosity for how software operates. For me, software is a creative medium-a way to take an idea that solves a real-world problem and build it into something tangible and useful. I'm passionate about the entire process, from the first sketch to the final product, and I love the challenge of creating things that make a difference.
 
 ### 🧰 Languages and Tools
 
