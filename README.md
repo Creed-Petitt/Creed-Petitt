@@ -22,7 +22,3 @@ Hey there, thanks for stopping by. I'm a Computer Engineering student at the Uni
 #
 
 
-
-#
-
-
