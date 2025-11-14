@@ -2,7 +2,7 @@
 
 **`Software Engineer (Backend, AI, Cloud)`**
 
-Hey there, thanks for stopping by. I'm a student at the University of Oklahoma with a curiosity for software. I'm passionate about the entire process, from the first idea to the final product, and I love the challenge of creating things that make a difference.
+Hey there, thanks for stopping by. 
 
 ### Languages and Tools
 
