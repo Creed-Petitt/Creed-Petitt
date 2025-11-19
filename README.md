@@ -2,7 +2,7 @@
 
 **`Software Engineer (Backend, Systems, Cloud)`**
 
-Hey there, thanks for stopping by. 
+Hey, thanks for stopping by. 
 
 ### Languages and Tools
 
