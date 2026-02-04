@@ -1,4 +1,4 @@
-# 🧙 Creed Petitt
+# Creed Petitt
 
 **`Software Engineer (Backend, Systems, Cloud)`**
 
